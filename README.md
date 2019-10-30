@@ -24,7 +24,7 @@ Steps to install Test NG plugin:
 
 
 Steps to import project from GIT to Local Drive:
-1)	Go to https://github.com/khalid8899/CRUD_RESTAPI.git
+1)	Go to https://github.com/khalid8899/shaadi.comFinalProject.git
 2)	Click on download->Download Zip(project will be download)
 3)	Unzip project and save it on your local drive.
 4)	Launch Eclipse IDE and select Workspace (Eclipse will open)
@@ -39,10 +39,10 @@ Steps for Execution:
 There are 2 ways for execution.
 1)	Explore the project and go to the  Test Runner Class file(src/main/java)
 2)	Under tag option you can enter tag details provided in cucumber feature file.
-3)	You can run all test cases simultaneously using @smoke common tag or by providing one test case tag detail i.e TC_001 and smokeTest and so on.
+3)	You can run all test cases simultaneously using @smokeTest common tag or by providing one test case tag detail i.e TC_001 and TC_002
 4)	Right Click on Test runner class file and select  Run as Test NG Test.
 5)	Execution will start for provided test case tag name.
-6)	Another way to execute is go to the “RestCRUD	.feature” file(under feature folder)
+6)	Another way to execute is go to the “shaadi.feature” file(under feature folder)
 7)	Right click on feature file and select Run as Cucumber feature
 8)	Execution will start and test cases will be executed.
 
